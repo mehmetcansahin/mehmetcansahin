@@ -1,6 +1,6 @@
 ### Hello, 🖖
 
-I am a computer enthusiast. Work on web & mobile technologies.
+Work on web & mobile technologies.
 
 Twitter: [@mehmetcansahin](https://twitter.com/mehmetcansahin)
 
